@@ -22,11 +22,12 @@ a. Consultar utilizando el metodo GET: http://localhost:4000/personas
 
 
 
-b. Crear utilizando el metodo POST: http://localhost:4000/crearPersona
+b. Crear utilizando el metodo POST: http://localhost:4000/personas/
 
 Nota: se envia datos por medio de un json.
 
-![image](https://user-images.githubusercontent.com/87329633/151292493-ff3359b4-62a1-4f1b-85fd-24378871ce51.png)
+![image](https://user-images.githubusercontent.com/87329633/151466139-af960264-214e-492e-95ac-26851c076c61.png)
+
 
 
 
