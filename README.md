@@ -16,7 +16,8 @@ Para ejecutar la api en localhost se requiere:
 
 a. Consultar utilizando el metodo GET: http://localhost:4000/personas
 
-![image](https://user-images.githubusercontent.com/87329633/151292350-c8c25e7e-503f-470a-a04e-c38ffa8f2194.png)
+![image](https://user-images.githubusercontent.com/87329633/151466405-0939568c-475a-48bc-8ee3-fe1ac146b5c8.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/87329633/151466305-8438b3cc-75ef-41a9-88af-fcbc235253cc.png)
