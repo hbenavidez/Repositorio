@@ -3,7 +3,7 @@
 Para ejecutar la api en localhost se requiere:
 
 - Tener instalado Nodejs, postgres, utilizar programa como (insomnia o postman) para ejecutar las url de la api.
-- Descarga la carpeta api_rest_nodejs.zip
+- Descarga la carpeta api_rest_nodejs.zip que se encuentra en el repositorio
 - Copiar la carpeta api_rest_nodejs e Importar la base de datos que se encuentra dentro de la carpeta api_rest_nodejs con nombre api.
 
 ![image](https://user-images.githubusercontent.com/87329633/151477471-18bc1532-bef2-4905-909c-b590ae17eac8.png)
